@@ -12,8 +12,6 @@ import (
 	"net/http"
 )
 
-const sltoken = "DgnNlmIN6VpmiqhPZRjmiH9n"
-
 var cfg = config.LoadConfig()
 
 var (
